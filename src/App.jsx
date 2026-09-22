@@ -30,10 +30,10 @@ const App = () => {
   return (
     <div>
       <Toaster  />
-      {/* <Header /> */}
-      {/* <Counter/> */}
-      {/* <Products /> */}
-      {/* <Login/> */}
+      <Header />
+      <Counter/>
+      <Products />
+      <Login/>
       <Register/>
     </div>
   )
